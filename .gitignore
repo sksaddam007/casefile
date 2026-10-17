@@ -1,0 +1,18 @@
+# python
+__pycache__/
+*.py[cod]
+.venv/
+*.egg-info/
+
+# local configuration (holds endpoint settings, never provider keys)
+.env
+
+# run artifacts
+evidence/
+
+# OS
+.DS_Store
+
+# scratch recordings
+*.cast
+*.mp4

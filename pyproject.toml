@@ -1,0 +1,15 @@
+[project]
+name = "casefile"
+version = "0.1.0"
+description = "Graph-powered fraud investigation agent built on FalkorDB — Graph Hacks hackathon entry"
+requires-python = ">=3.12"
+dependencies = [
+    "falkordb>=1.0.0",
+    "openai>=1.50.0",
+    "rich>=13.0.0",
+    "python-dotenv>=1.0.0",
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
