@@ -10,6 +10,11 @@ traceable back to a Cypher query.
 
 No vector-store RAG. No prompt-stuffed context. Every fact is a traversal the agent chose to run.
 
+## 🎬 Demo video
+
+Watch the full investigation here → [casefile_demo.mp4](https://github.com/sksaddam007/casefile/raw/main/casefile_demo.mp4) (2 min, narrated)
+*same labeled verdict gets produced live by `./demo.sh` (or `./present.sh` for the timed version).*
+
 ## The 40-second story
 
 1. An alert fires: **$8,150.50 FR-04 → FR-02**, both accounts weeks old. Ordinary? Could be.
