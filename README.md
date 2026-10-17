@@ -90,6 +90,8 @@ isn't a sidecar — it **is** the agent's working memory.
 | `shortest_path("FR-02", "FR-03")` | 2 hops via `TRANSFERRED` |
 | `close_alert(...)` | alert closed in-graph with agent's justification |
 
+📖 [**Read the blog post: Your fraud analyst sees rows. Fraud is a shape.**](https://dev.to/sk_saddam_5cfd61d6612b97/your-fraud-analyst-sees-rows-fraud-is-a-shape-51o8)
+
 ## Team
 
 Hackathon solo build — with GLM-5 (Z.ai) as implementation copilot.
