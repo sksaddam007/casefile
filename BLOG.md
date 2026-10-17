@@ -47,4 +47,4 @@ The verdict shouldn't be a paragraph of LLM prose you have to take on faith. Our
 
 ---
 
-Built with FalkorDB + Python in one day for Graph Hacks. Full code: github.com/[you]/casefile. To reproduce: `CASEFILE_MOCK=1 ./demo.sh`.
+Built with FalkorDB + Python in one day for Graph Hacks. Full code: github.com/sksaddam007/casefile. To reproduce: `CASEFILE_MOCK=1 ./demo.sh`.
