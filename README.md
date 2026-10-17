@@ -12,8 +12,11 @@ No vector-store RAG. No prompt-stuffed context. Every fact is a traversal the ag
 
 ## 🎬 Demo video
 
-Watch the full investigation here → [casefile_demo.mp4](https://github.com/sksaddam007/casefile/raw/main/casefile_demo.mp4) (2 min, narrated)
-*same labeled verdict gets produced live by `./demo.sh` (or `./present.sh` for the timed version).*
+Watch the narrated 2-minute investigation:
+
+[![CaseFile demo video](https://img.youtube.com/vi/hnDjRPdrbm8/hqdefault.jpg)](https://youtu.be/hnDjRPdrbm8)
+
+*Direct MP4 (no YouTube needed): [casefile_demo.mp4](https://github.com/sksaddam007/casefile/raw/main/casefile_demo.mp4) — would rerun by `./present.sh` (timed) / `./demo.sh` (one-shot).*
 
 ## The 40-second story
 
